@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <color name="black">#ff000000</color>
+      <color name="burlywood">#DEB887</color><!--实木色 --> 
+      <color name="tan">#D2B48C</color><!--茶色 -->  
+      <color name="brown">#A52A2A</color><!--褐色 -->   
+      <color name="papayawhip">#FFEFD5</color><!--番木色 --> 
+        <!-- 灰色分割线 -->
+    <color name="divider_line">#d4d4d4</color>
+        
+</resources>
